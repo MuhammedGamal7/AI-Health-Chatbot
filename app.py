@@ -51,7 +51,7 @@ st.write("Chat Now!")
 
 # Initialize Groq LLM
 try:
-    llm = ChatGroq(groq_api_key=GROQ_API_KEY, model_name="llama3-70b-8192")
+    llm = ChatGroq(groq_api_key=GROQ_API_KEY, model_name="llama-3.3-70b-versatile")
     
 except Exception as e:
     st.error(f"Failed to initialize LLM: {e}")
@@ -154,4 +154,5 @@ if predefined_pdfs:
     if st.button("Clear Chat History"):
         st.session_state.store[session_id] = ChatMessageHistory()
         st.success("Chat history cleared.")
+
 
