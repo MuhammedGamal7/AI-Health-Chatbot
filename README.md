@@ -9,7 +9,7 @@ This chatbot was developed as part of my **graduation project** and contributed 
 
 You can try the chatbot online here:
 
-🔗 [Click to Launch the AI Health Chatbot](https://lamasmart.streamlit.app/)
+🔗 [Click to Launch the AI Health Chatbot](https://stemchatbotp11.streamlit.app/)
 
 ## 🧠 Overview
 
