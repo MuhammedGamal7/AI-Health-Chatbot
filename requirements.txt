@@ -6,6 +6,7 @@ sentence-transformers==2.6.1
 tokenizers
 
 # LangChain Ecosystem
+langchain
 langchain-core
 langchain-community
 langchain-text-splitters
@@ -22,3 +23,4 @@ python-dotenv
 
 # Hugging Face hub access (for future loading, not local models)
 huggingface-hub
+
