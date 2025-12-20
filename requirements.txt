@@ -5,12 +5,11 @@ streamlit
 sentence-transformers==2.6.1
 tokenizers
 
-# LangChain Ecosystem
-langchain
-langchain-core
-langchain-community
-langchain-text-splitters
-langchain-groq
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-community==0.2.16
+langchain-text-splitters==0.2.4
+langchain-groq==0.1.9
 
 # Vector Store
 faiss-cpu>=1.7.4,<2.0.0
@@ -23,4 +22,5 @@ python-dotenv
 
 # Hugging Face hub access (for future loading, not local models)
 huggingface-hub
+
 
