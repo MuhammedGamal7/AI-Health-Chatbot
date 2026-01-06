@@ -67,6 +67,8 @@ streamlit run app.py
 
 **Muhammed Gamal**  
 
+Machine Learning & AI Engineer
+
 ## 🤝 Get in Touch
 
 <p align="center">
