@@ -46,7 +46,7 @@ Follow these steps to get the chatbot up and running locally:
 
 ### 1. Clone the repository
 
-git clone https://github.com/Jimmy70707/AI-Health-Chatbot.git
+git clone https://github.com/MuhammedGamal7/AI-Health-Chatbot.git
 cd AI-Health-Chatbot
 
 ### 2. Install dependencies
@@ -65,11 +65,13 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Mohamed Gamal AbdulRahim**  
-AI/ML Engineer | Passionate about LLMs, NLP, and real-world AI applications  
+**Muhammed Gamal**  
 
-📍 6 October, Egypt  
+## 🤝 Get in Touch
 
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammed.gamal00@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-gamal-b0a347244)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Jimmy70707)
+<p align="center">
+<a href="https://www.linkedin.com/in/muhammed-gamal-b0a347244"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/MuhammedGamal7"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="36" height="36"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:muhammed.gammal00@gmail.com"><img src="https://img.icons8.com/fluency/48/email-open.png" width="36" height="36"/></a>
+<a href="https://www.upwork.com/freelancers/~01c1e1e3a6512dbadf"><img src="https://cdn.simpleicons.org/upwork/6FDA44" width="36" height="36"/></a>
+</p>
